@@ -151,7 +151,7 @@ type Movie = {
 
 type Movies = Movie[];
 
-const movies = [
+const movies: Movies = [
   {
     id: 1,
     title: "Black Widow",
